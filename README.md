@@ -1,9 +1,9 @@
 # Hi, I'm Raluca! 👋
 
-And here you can find the documentation of the Calorie Counter Project
+Here you can find the documentation of the Calorie Counter Project
 
 ## 🚀 About Me
-💻(Aspiring) back-end software developer | 👨‍💻Helping companies to build great back-ends | Java, Spring Boot | Passionate about solving problems using technology | 💼 Actively looking for a job |
+💻(Aspiring) back-end software developer | 👨‍💻Helping companies to build great back-ends | Java, Spring Boot | Passionate about solving problems using technology 
 
 
 ## 🛠 Skills
@@ -17,7 +17,7 @@ Back-end development · Unit Testing · Java · Algorithms · OOP · Relational 
 
 # Calorie Counter
 
-This project can show the calorie count of a certain product that we added before. Up to 100 products can be added to this product atalog. The Scanner class is used to read input from the console.
+This project can show the calorie count of a certain product that we added before. Up to 100 products can be added to this product catalog. The Scanner class is used to read input from the console.
 
 
 ## Features
@@ -35,6 +35,15 @@ The users are able to:
 ## Built with
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+## Prerequisites
+
+For building and running the application you need:
+- JDK 1.8 or higher
+
+## Dependencies
+
+You don't need any additional dependencies.
 
 ## Installation
 
